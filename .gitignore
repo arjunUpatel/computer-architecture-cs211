@@ -81,3 +81,10 @@ pa2/solveMaze
 pa3/ascii
 pa3/inplaceSwap
 pa3/monteCarloPi
+
+#pa4 examples
+pa4/1_assembly_basics
+pa4/2_assembly_control
+pa4/3_assembly_procedures
+pa4/bomb88/README
+pa4/bomb88/bomb.c
