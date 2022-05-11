@@ -54,3 +54,30 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Miscellaneous
+*.txt
+**/Makefile
+tests
+answers
+
+# pa0 examples
+pa0/oddEven
+
+# pa1 examples
+pa1/debugging_examples
+pa1/dynamicProgramming
+pa1/matMul
+pa1/pointers
+pa1/sortJobs
+
+# pa2 examples
+pa2/bstReverseOrder
+pa2/queue
+pa2/stack
+pa2/solveMaze
+
+#pa3 examples
+pa3/ascii
+pa3/inplaceSwap
+pa3/monteCarloPi
